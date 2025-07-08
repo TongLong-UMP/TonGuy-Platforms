@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TonGuy-Platforms/static/css/main.167b6ec3.css",
+    "main.js": "/TonGuy-Platforms/static/js/main.acc291b7.js",
+    "static/js/453.b21a91d2.chunk.js": "/TonGuy-Platforms/static/js/453.b21a91d2.chunk.js",
+    "index.html": "/TonGuy-Platforms/index.html",
+    "main.167b6ec3.css.map": "/TonGuy-Platforms/static/css/main.167b6ec3.css.map",
+    "main.acc291b7.js.map": "/TonGuy-Platforms/static/js/main.acc291b7.js.map",
+    "453.b21a91d2.chunk.js.map": "/TonGuy-Platforms/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167b6ec3.css",
+    "static/js/main.acc291b7.js"
+  ]
+}
